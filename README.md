@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Bssk143
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Bssk143/Bssk143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+a white page (300*300)
+middle bar (20*48)
+open with url www.google.com
+page owner name bssk143
